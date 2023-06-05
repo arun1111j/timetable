@@ -113,4 +113,7 @@ Execute the program
 # OUTPUT
 ![image](https://user-images.githubusercontent.com/128461833/232372764-b7d3e36a-fbe1-4c38-a7e2-0dc73b38361a.png)
 
+# Result
+html webpage page to display  timetable is created.
+
 
